@@ -1,0 +1,4 @@
+﻿  Source.cpp
+E:\C++ code\EEL\PIG\PIG\PIG\Source.cpp(74,13): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\C++ code\EEL\PIG\PIG\PIG\Source.cpp(115,13): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  PIG.vcxproj -> E:\C++ code\EEL\PIG\PIG\Debug\PIG.exe
